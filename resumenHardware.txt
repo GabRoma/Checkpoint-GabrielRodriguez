@@ -1,0 +1,12 @@
+Hay muchos tipos de hardware, pero a los efectos de este ejemplo podemos considerar tres tipos básicos:
+
+Hardware de Entrada/Salida: se utiliza para interactuar con la computadora, permitiendo la entrada de datos y la salida de resultados.
+Ejemplos de este tipo de hardware pueden ser: el teclado y el mouse como dispositivos de entrada, los parlantes y la pantalla como dispositivos de salida.
+
+Hardware de Procesamiento: realiza cálculos y ejecuta instrucciones para llevar a cabo las tareas de la computadora.
+Ejemplos de este tipo de hardware son la Unidad Central de Procesamiento (CPU) o la Unidad de Procesamiento Gráfico (GPU).
+
+Hardware de Almacenamiento: se utiliza para guardar y acceder a datos.
+Ejemplos de este tipo de hardware son:
+Memoria principal: RAM, ROM, Caché.
+Memoria Secudaria: Discos Duros (HDD), Discos de Estado Sólido (SSD), unidades de memoria extraíbles.

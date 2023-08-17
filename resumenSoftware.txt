@@ -1,0 +1,10 @@
+Hay muchos tipos de software, pero a los efectos de este ejemplo podemos considerar tres tipos básicos:
+
+Software de Sistema: fundamental para el funcionamiento de una computadora. Está iseñado para administrar y coordinar los recursos del hardware y proporcionar servicios esenciales al usuario y a las aplicaciones.
+Ejemplos de este tipo de software son los Sistemas Operativos, como Windows, Linux, macOS, Android o iOS.
+
+Software de Aplicación: diseñado para realizar tareas específicas y resolver problemas concretos para el usuario. Estos programas se utilizan para llevar a cabo diversas actividades y están destinados a satisfacer las necesidades del usuario.
+Ejemplos de este tipo de software pueden ser los navegadores web, los procesadores de texto o las aplicaciones de edición y diseño de contenidos multimedia.
+
+Software de Desarrollo: se utiliza para crear, depurar y mantener otros programas y aplicaciones. Está dirigido a programadores y desarrolladores de software.
+Ejemplos de este tipo de software son los Entornos de Desarrollo Integrado (IDE), como Visual Studio Code.

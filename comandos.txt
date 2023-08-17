@@ -1,0 +1,20 @@
+Algunos comandos utilizados en el desarrollo de esta actividad han sido:
+
+1. git clone <url del repositorio>: para clonar el repositorio remoto en la computadora.
+2. pwd: para ubicar en qué directorio estamos trabajando.
+3. cd: para cambiar el directorio donde estamos trabajando.
+4. ls: para listar los elementos que se encuentran dentro del directorio donde estamos.
+5. mkdir: para crear un nuevo directorio/carpeta.
+6. touch: para crear un nuevo archivo.
+7. mv <nombre actual> <nuevo nombre>: para renombrar un archivo existente.
+8. git add . : para agregar los cambios realizados al staging area.
+9. git commit -m "<mensaje>": para guardar los cambios realizados.
+10. git push origin <nombre de la rama>: para enviar los cambios realizados en el repositorio remoto.
+11. git branch <nombre nueva rama>: para crear una nueva rama en el repositorio.
+12. git checkout <nombre de la rama>: para cambiar de rama.
+13. git status: para comprobar que los cambios se han guardado correctamente tras realizar commit y push, y que la rama se encuentra actualizada.
+14. history: para ver el historial de comandos utilizados.
+
+Consideraciones:
+1. Como los datos ya estaban configurados de antemano en este equipo, no fue necesario utilizar el comando git config.
+2. Como el repositorio fue clonado directamente desde GitHub, no fue necesario utilizar los comandos git init ni git remote add origin <url del repositorio>.
